@@ -3,4 +3,4 @@
 define('SERVER','localhost');
 define('BASEDEDONNEES','gestasso');
 define('UTILISATEUR','root');
-define('MOTDEPASSE','tkcp6pc');
+define('MOTDEPASSE','');
