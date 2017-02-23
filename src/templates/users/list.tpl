@@ -21,24 +21,7 @@
  						<div class="box-header">
  							<h3 class="box-title">{$fil}</h3>
 
- 							<div class="box-tools">
- 								<div class="input-group input-group-sm" style="width: 150px;">
- 									<form method="POST">
- 										
- 										<select>
- 											<option value="5">5</option>
- 											<option value="10">10</option>
- 											<option value="15">15</option>
- 											<option value="20">20</option>
- 										</select>
- 										<button type="submit" class="btn btn-success" name="nbAafficher">Afficher</button>
- 									</form>
-
- 									<!-- <div class="input-group-btn">
- 										<button type="submit" class="btn btn-default"><i class="fa fa-search"></i></button>
- 									</div> -->
- 								</div>
- 							</div>
+ 							
  						</div>
  						<!-- /.box-header -->
  						<div class="box-body table-responsive no-padding">
