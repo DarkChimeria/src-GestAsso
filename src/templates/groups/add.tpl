@@ -28,7 +28,7 @@
  							</div>
  							<div class="form-group">
  								<label for="exampleInputEmail1">Description</label>
- 								<input type="text" class="form-control" id="exampleInputEmail1" placeholder="Prénom" name="group_description">
+ 								<input type="text" class="form-control" id="exampleInputEmail1" placeholder="Veuillez décrire le groupe" name="group_description">
  							</div>
  							<div class="form-group">
  								<label for="exampleInputEmail1">Activité</label>
